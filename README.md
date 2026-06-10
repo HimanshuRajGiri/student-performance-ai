@@ -51,12 +51,6 @@ student_placement_career_success_dataset.csv
 ```bash
 streamlit run app.py
 ```
-
-## 🎯 Resume Line
-> Built an AI-powered student placement prediction system using 25K+ records with 44 features.
-> Developed 3 ML models (placement classifier, salary regressor, burnout detector) achieving 85%+ accuracy.
-> Deployed an interactive Streamlit dashboard for real-time predictions.
-
 ## 🛠️ Tech Stack
 - **Python** | **Pandas** | **NumPy**
 - **Scikit-learn** | **XGBoost**
